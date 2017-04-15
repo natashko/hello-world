@@ -1,5 +1,3 @@
 # hello-world
-the description is lost
-something new
-bla bla bla
-why so hard
+this is the README file
+i'm just trying to understand
